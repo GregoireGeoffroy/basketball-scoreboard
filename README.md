@@ -10,8 +10,8 @@ This project is a simple basketball scoreboard that allows users to track the sc
 - **Display updates**: The score displays are updated dynamically with each score change.
 
 ## Main Functionalities:
-- **Home Team Score**: Buttons to add 1, 2, or 3 points to the home team's score.
-- **Guest Team Score**: Buttons to add 1, 2, or 3 points to the guest team's score.
+- **Team 1 Score**: Buttons to add 1, 2, or 3 points to the home team's score.
+- **Team 2 Score**: Buttons to add 1, 2, or 3 points to the guest team's score.
 - **Dynamic Score Display**: The scoreboard updates in real-time as points are added.
 
 ## Technologies:
